@@ -1,10 +1,7 @@
 Welcome to Numeriko's documentation!
 ------------------------------------
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+*Numeriko is a math problem solving game-like software that allows children from the age of 6-9 to strenghten their skills.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
